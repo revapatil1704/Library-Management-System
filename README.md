@@ -32,11 +32,18 @@ Connects all modules together
  #Features
  
 Add new Book records
+
 Display all available Books
+
 Search Book by ID or Title
+
 Update Book information
+
 Delete Book records
+
 Data storage for saving book details
+
 Menu-driven console interface
+
 Prevents duplicate Book IDs
 Handles invalid user inputs
