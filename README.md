@@ -1,5 +1,7 @@
 # Library-Management-System
 A simple Java-based Book Management System developed using Eclipse.  It allows users to add, view, search, update, and delete book records using a console-based interface.It is modular and oragnized into separate classes for easy understanding and internship submission.
+
+
 Project Modules / Files
 1. Book.java
 Represents a Book entity
